@@ -1,4 +1,4 @@
-package com.loverpc.spring.chapter1;
+package com.loverpc.study.spring;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

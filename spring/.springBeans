@@ -7,6 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
+		<config>java:com.loverpc.study.spring.Application</config>
 	</configs>
 	<configSets>
 	</configSets>
